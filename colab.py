@@ -1,1 +1,0 @@
-# Datei zur gemeinsamen Bearbeitung
